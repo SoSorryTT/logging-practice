@@ -1,0 +1,8 @@
+2021-11-05 21:02:21,288 root WARNING: Invalid user login!
+2021-11-05 21:02:21,290 root Level 35: User doesn't exist!
+2021-11-05 21:02:21,290 root ERROR: Error detected!
+2021-11-05 21:02:21,290 root CRITICAL: Critical error detected!
+2021-11-05 21:02:21,291 root WARNING: Invalid user login!
+2021-11-05 21:02:21,291 Mark Level 35: User doesn't exist!
+2021-11-05 21:02:21,291 root ERROR: Error detected!
+2021-11-05 21:02:21,293 root CRITICAL: Critical error detected!
